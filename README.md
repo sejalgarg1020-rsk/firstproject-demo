@@ -1,3 +1,3 @@
 # firstproject-demo
-this is my first project
-author name-SEJAL GARG
+This is my First Project.
+Author-SEJAL GARG
